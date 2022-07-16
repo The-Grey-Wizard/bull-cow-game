@@ -1,0 +1,7 @@
+﻿  FBullCowGame.cpp
+c:\users\jordy\source\repos\bullcowgame\testbullcowgameforjackclayton\fbullcowgame.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\jordy\source\repos\bullcowgame\testbullcowgameforjackclayton\fbullcowgame.cpp(141): warning C4129: '_': unrecognized character escape sequence
+c:\users\jordy\source\repos\bullcowgame\testbullcowgameforjackclayton\fbullcowgame.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\jordy\source\repos\bullcowgame\testbullcowgameforjackclayton\fbullcowgame.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\jordy\source\repos\bullcowgame\testbullcowgameforjackclayton\fbullcowgame.cpp(226): warning C4018: '<': signed/unsigned mismatch
+  testbullcowgameforjackclayton.vcxproj -> C:\Users\jordy\source\repos\BullCowGame\Debug\testbullcowgameforjackclayton.exe
